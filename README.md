@@ -2,8 +2,8 @@
 
 The pdf file shows how to formulate and solve the below facility location problems using Python linear optimization library PuLP:
 
-1) Uncapacitated fixed-charge location problem (UFLP)
-2) Set Covering location Problem (SCLP)
+1) Uncapacitated Fixed-charge Location Problem (UFLP)
+2) Set Covering Location Problem (SCLP)
 3) Maximal Covering Location Problem (MCLP)
 
 One of the major strategic decisions faced by firms is the number and locations of factories, warehouses, retailers, or other physical facilities. This is the purview of a large class of models known as facility location problems. The key tradeoff in most facility location problems is between the facility cost and customer service. If we open a lot of facilities, we incur high facility costs (to build and maintain them), but we can provide good service since most customers are close to a facility. On the other hand, if we open
