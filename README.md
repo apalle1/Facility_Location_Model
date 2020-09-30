@@ -1,6 +1,6 @@
 # Facility_Location_Model
 
-The pdf file shows how to formulate and solve the below linear optimization facility locations models using Python library PuLP:
+The pdf file shows how to formulate and solve the below facility location problems using Python linear optimization library PuLP:
 
 1) Uncapacitated fixed-charge location problem (UFLP)
 2) Set Covering location Problem (SCLP)
