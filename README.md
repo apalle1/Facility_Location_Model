@@ -1,4 +1,4 @@
-# Facility_Location_Model
+# Solving Facility Location Problems using PuLP
 
 The pdf file shows how to formulate and solve the below facility location problems using Python linear optimization library PuLP:
 
